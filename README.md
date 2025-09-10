@@ -73,12 +73,6 @@ README.md         # Dokumentasi
 
 ---
 
-## 📷 Screenshot
-
-![Tableau Embed Playground](docs/screenshot.png)
-
----
-
 ## 📌 Referensi
 
 * [Tableau Embedding API v3](https://help.tableau.com/current/api/embedding_api/en-us/index.html)
